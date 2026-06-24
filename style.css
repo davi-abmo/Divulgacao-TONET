@@ -48,3 +48,8 @@ p {
 #contact {
     font-size: 1.5rem;
 }
+
+.menu {
+    text-align: center;
+    padding: 5px;
+}
