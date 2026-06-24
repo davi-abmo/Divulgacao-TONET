@@ -31,3 +31,16 @@ p {
     margin-bottom: 24px;
     max-width: 65ch;
 }
+
+#user {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#menunav {
+    font-size: medium;
+}
