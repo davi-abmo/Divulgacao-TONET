@@ -1,0 +1,23 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+    font-size: 3.5rem;          /* Tamanho gigante */
+    font-weight: 900;           /* Espessura máxima */
+    letter-spacing: -0.04em;    /* Letras bem juntas para dar peso */
+    line-height: 1.1;           /* Evita espaço em branco se quebrar linha */
+    color: #000000;             /* Preto puro para contraste total */
+}
+
+h2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-size: 2rem;            /* Metade do tamanho do H1, mas o dobro do texto */
+    font-weight: 700;           /* Negrito marcante, mas menos massivo que o H1 */
+    letter-spacing: -0.02em;    /* Levemente aproximado para manter o visual moderno */
+    line-height: 1.2;           /* Boa leitura caso o subtítulo ocupe duas linhas */
+    color: #222222;             /* Um tom abaixo do preto absoluto do H1 */
+    margin-top: 40px;           /* Espaço antes do h2 para organizar a leitura */
+    margin-bottom: 16px;
+}
