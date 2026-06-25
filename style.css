@@ -8,7 +8,7 @@ body {
 
 h1 {
     font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
-    font-size: 3.5rem;
+    font-size: 4rem;
     font-weight: 900;
     letter-spacing: -0.04em;
     line-height: 1.1;
@@ -74,7 +74,23 @@ p {
 }
 
 #logo {
+    width: 250px;
     height: 250px;
     border: 8px solid #4b0b0b;
     border-radius: 8px;
+}
+
+img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+.member {
+    border: 8px solid rgb(5, 5, 5);
+    border-radius: 8px;
+}
+
+.menu-navegacao {
+    list-style-type: none;
 }
